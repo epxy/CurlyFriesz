@@ -1,6 +1,7 @@
 - Hi, I’m CurlyFriesz
 - I’m interested in:
       - game dev
+      - web dev
 - I’m currently learning:
       - java
       - c++
