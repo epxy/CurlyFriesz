@@ -1,12 +1,1 @@
-- Hi, I’m CurlyFriesz
-- I’m interested in:
-      - game dev
-      - web dev
-- I’m currently learning:
-      - java
-      - c++
-- I’m looking to collaborate on:
-      - game jams 
-      - hackathons
-- How to reach me:
-      - message me at abdelhadymohamad1@gmail.com
+this is a thing you read
