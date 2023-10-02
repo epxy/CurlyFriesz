@@ -2,7 +2,6 @@
 - I’m interested in:
       - game dev
       - web dev
-      - algorithms and data structures
 - I’m currently learning:
       - java
       - c++
